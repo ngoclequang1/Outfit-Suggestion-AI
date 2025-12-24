@@ -5,7 +5,7 @@ Python 3.9.13+
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/AkihimaTomoya/IPR.git
+git clone https://github.com/ngoclequang1/Outfit-Suggestion-AI.git
 
 ```
 ### 2. Set up environment
